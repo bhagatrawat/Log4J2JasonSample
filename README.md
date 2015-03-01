@@ -4,6 +4,7 @@ This is Log4J 2.2 JSON configuration sample application.
 Clone URL: https://github.com/bhagatsingh/Log4J2JasonSample.git
 
 Run through maven: mvn clean install
+
 Once maven install is successful
 
 Check log file at <PROJECT HOME>/target/logs/test.log
